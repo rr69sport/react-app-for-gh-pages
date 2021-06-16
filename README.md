@@ -6,7 +6,14 @@ Este proyecto está creado con [Create React App](https://github.com/facebook/cr
 
 Con el proyecto de react ya creado, instalamos [gh-pages](https://github.com/tschaub/gh-pages) como dependencia de desarrollo `npm install gh-pages --save-dev` ó `npm i gh-pages -D`.
 
-En el `package.json`, necesitamos definir al principio del archivo la propiedad `"homepage"` con el valor `"./"`, quedando tal que así: `"homepage": "./"`
+En el `package.json`, necesitamos definir al principio del archivo la propiedad `"homepage"` con el valor `"./"`, quedando tal que así: 
+
+```json
+{
+    "homepage": "./",
+    //...
+}
+```
 
 Para continuar debemos definir en la sección `"scripts"` del `package.json` también, lo siguiente:
 

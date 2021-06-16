@@ -31,7 +31,7 @@ Por último ya nos queda subir el proyecto a github:
 ```bash
 git add .
 git commit -m "Tu mensaje de commit"
-git push -u origin master
+git push -u origin main
 ```
 
 Hecho esto ya está nuestro proyecto de react en GitHub Pages! Para ver el link debemos ir a nuestro repo del proyecto, a la sección `Settings` y ahí entrar a la sección `Pages` y veremos nuestro link de la app publicada!

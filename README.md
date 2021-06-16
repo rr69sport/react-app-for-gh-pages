@@ -39,3 +39,5 @@ Hecho esto ya está nuestro proyecto de react en GitHub Pages! Para ver el link 
 ![Settings GitHub](assets/settings-gh.png)
 ![Pages GitHub](assets/pages-gh.png)
 ![Link GitHub](assets/link-gh.png)
+
+Tener en cuenta que GitHub puede demorar en actualizar los cambios en la página del link. Solo es esperar un ratito y listo!!

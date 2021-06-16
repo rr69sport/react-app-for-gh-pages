@@ -22,7 +22,7 @@ Para continuar debemos definir en la sección `"scripts"` del `package.json` tam
 
 ## En GitHub
 
-`create-react-app` yo nos inicializa un proyecto de git así que no tenemos que iniciarlo, pero sí tenemos que decirle a donde lo va a subir, para eso usamos el comando de git: `git remote add origin https://github.com/{tu-usuraio}/{nombre-del-repo}.git`
+`create-react-app` ya nos inicializa un proyecto de git así que no tenemos que iniciarlo, pero sí tenemos que decirle a donde lo va a subir, para eso usamos el comando de git: `git remote add origin https://github.com/{tu-usuraio}/{nombre-del-repo}.git`
 
 Ahora ejecutamos en comando: `npm run deploy` que habíamos establecido antes en los `scripts` del `package.json`.
 

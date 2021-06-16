@@ -1,8 +1,6 @@
 # Subir un proyecto de React a GitHub Pages
 
-Este proyecto está creado con [Create React App](https://github.com/facebook/create-react-app) y [gh-pages](https://github.com/tschaub/gh-pages).
-
-## [live de este repo](https://rr69sport.github.io/react-app-for-gh-pages/)
+Este proyecto está creado con [Create React App](https://github.com/facebook/create-react-app) y [gh-pages](https://github.com/tschaub/gh-pages). [link del deploy aquí](https://rr69sport.github.io/react-app-for-gh-pages/)
 
 ## Primeros pasos
 

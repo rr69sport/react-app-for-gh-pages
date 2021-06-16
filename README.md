@@ -2,7 +2,7 @@
 
 Este proyecto está creado con [Create React App](https://github.com/facebook/create-react-app) y [gh-pages](https://github.com/tschaub/gh-pages).
 
-[live de este repo](https://rr69sport.github.io/react-app-for-gh-pages/)
+## [live de este repo](https://rr69sport.github.io/react-app-for-gh-pages/)
 
 ## Primeros pasos
 

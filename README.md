@@ -2,6 +2,8 @@
 
 Este proyecto está creado con [Create React App](https://github.com/facebook/create-react-app) y [gh-pages](https://github.com/tschaub/gh-pages).
 
+[live de este repo](https://rr69sport.github.io/react-app-for-gh-pages/)
+
 ## Primeros pasos
 
 Con el proyecto de react ya creado, instalamos [gh-pages](https://github.com/tschaub/gh-pages) como dependencia de desarrollo `npm install gh-pages --save-dev` ó `npm i gh-pages -D`.
